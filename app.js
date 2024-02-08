@@ -3,3 +3,5 @@
 // add - add class
 // remove - remove class
 // toggle - toggles class
+
+const navToggle = document.querySelector('.nav-toggle')
